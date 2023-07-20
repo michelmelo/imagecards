@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:imagecards/src/imagecards_content.dart';
+import 'package:flutter_imagecards/src/imagecards_content.dart';
 
 class FillImageCards extends StatelessWidget {
   const FillImageCards({

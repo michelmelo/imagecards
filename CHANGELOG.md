@@ -10,3 +10,6 @@
 
 # 0.0.4
 - adicionado exemplo
+
+# 0.0.5
+- adicionado exemplo

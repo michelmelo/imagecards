@@ -1,6 +1,6 @@
 name: flutter_imagecards
 description: A Flutter package provides the image cards customization. Supported more parameter and gradient to customize card
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/michelmelo/imagecards.git
 
 environment:
